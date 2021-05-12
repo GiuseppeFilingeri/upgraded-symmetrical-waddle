@@ -23,7 +23,7 @@ status-website:
   name: Waddle
   introTitle: "**Waddle** is powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
-  theme: night
+  theme: light
   navbar:
     - title: Status
       href: /
