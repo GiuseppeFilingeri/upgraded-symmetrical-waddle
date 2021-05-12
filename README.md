@@ -1,6 +1,5 @@
 # [📈 Live Status](https://GiuseppeFilingeri.github.io/upgraded-symmetrical-waddle): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [GiuseppeFilingeri](https://GiuseppeFilingeri.github.io/upgraded-symmetrical-waddle), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/GiuseppeFilingeri/upgraded-symmetrical-waddle/workflows/Uptime%20CI/badge.svg)](https://github.com/GiuseppeFilingeri/upgraded-symmetrical-waddle/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/GiuseppeFilingeri/upgraded-symmetrical-waddle/workflows/Response%20Time%20CI/badge.svg)](https://github.com/GiuseppeFilingeri/upgraded-symmetrical-waddle/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -29,6 +28,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [GiuseppeFilingeri](https://GiuseppeFilingeri.github.io/upgraded-symmetrical-waddle)
+- Powered by: [Waddle](https://giuseppefilingeri.github.io/upgraded-symmetrical-waddle)
+- Code: [MIT](./LICENSE) © [GiuseppeFilingeri](https://giuseppefilingeri.github.io/upgraded-symmetrical-waddle)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
