@@ -14,7 +14,37 @@ sites:
   - name: DuckDuckGo
     url: https://duckduckgo.com
   - name: symmetrical waddle
-    url: https://giuseppefilingeri.github.io/upgraded-symmetrical-waddle/
+    url: https://giuseppefilingeri.github.io/upgraded-symmetrical-waddle
+  - name: ziggys-bar
+    url: ziggys-bar.com
+  - name: nedis
+    url: nedis.nl
+  - name: websearch
+    url: websearch.com
+  - name: iranrapfa
+    url: iranrapfa.com
+  - name: allekabels
+    url: allekabels.nl
+  - name: kabeltje
+    url: kabeltje.com
+  - name: cocinasana
+    url: cocinasana.net
+  - name: bitfan
+    url: bitfan.com
+  - name: xxlhd
+    url: xxlhd.com
+  - name: megachicks
+    url: megachicks.ru
+  - name: riphone
+    url: riphone.ru
+  - name: riphone
+    url: riphone.ru
+  - name: twoc
+    url: twoc.co.uk
+  - name: btinternet
+    url: btinternet.com
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
