@@ -1,7 +1,7 @@
 url: cnn.com
-status: down
-code: 503
-responseTime: 108
-lastUpdated: 2021-06-08T09:53:57.601Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2021-06-08T10:46:26.677Z
 startTime: Thu May 13 2021 12:15:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
