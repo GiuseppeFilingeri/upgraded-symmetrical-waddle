@@ -1,7 +1,7 @@
 url: eatbigbuns.com
-status: up
-code: 200
-responseTime: 1241
-lastUpdated: 2021-08-31T23:26:01.001Z
+status: down
+code: 500
+responseTime: 953
+lastUpdated: 2021-08-31T23:59:55.115Z
 startTime: Thu May 13 2021 12:12:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
