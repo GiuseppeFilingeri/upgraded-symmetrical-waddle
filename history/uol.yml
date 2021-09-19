@@ -1,7 +1,7 @@
 url: uol.com.br
-status: up
-code: 200
-responseTime: 617
-lastUpdated: 2021-09-18T23:28:24.413Z
+status: down
+code: 503
+responseTime: 575
+lastUpdated: 2021-09-19T00:09:11.370Z
 startTime: Thu May 13 2021 12:15:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
