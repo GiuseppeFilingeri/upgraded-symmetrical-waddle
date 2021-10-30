@@ -1,7 +1,7 @@
 url: isai.in
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2021-10-29T23:29:20.785Z
+status: down
+code: 502
+responseTime: 186
+lastUpdated: 2021-10-30T11:41:15.661Z
 startTime: Thu May 13 2021 12:13:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
