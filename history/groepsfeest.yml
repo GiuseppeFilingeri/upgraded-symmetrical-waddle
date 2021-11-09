@@ -1,7 +1,7 @@
 url: groepsfeest.nl
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2021-11-06T23:27:50.566Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2021-11-09T10:41:29.202Z
 startTime: Thu May 13 2021 12:13:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
