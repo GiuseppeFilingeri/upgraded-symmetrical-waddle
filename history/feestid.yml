@@ -1,7 +1,7 @@
 url: feestid.nl
-status: up
-code: 200
-responseTime: 2764
-lastUpdated: 2021-12-13T23:27:37.092Z
+status: down
+code: 502
+responseTime: 1050
+lastUpdated: 2021-12-15T07:47:51.455Z
 startTime: Thu May 13 2021 12:13:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
