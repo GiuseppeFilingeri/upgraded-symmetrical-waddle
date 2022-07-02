@@ -1,7 +1,7 @@
 url: babcock.co.uk
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2022-07-02T13:36:58.177Z
+status: down
+code: 403
+responseTime: 247
+lastUpdated: 2022-07-02T17:46:55.395Z
 startTime: Thu May 13 2021 12:13:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
