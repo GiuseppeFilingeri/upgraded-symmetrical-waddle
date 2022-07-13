@@ -1,7 +1,7 @@
 url: hongkong.com
-status: up
-code: 200
-responseTime: 93
-lastUpdated: 2022-07-09T23:22:12.222Z
+status: down
+code: 504
+responseTime: 10094
+lastUpdated: 2022-07-13T17:21:51.760Z
 startTime: Thu May 13 2021 12:06:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
