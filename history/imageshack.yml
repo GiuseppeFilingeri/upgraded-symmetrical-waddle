@@ -1,7 +1,7 @@
 url: imageshack.us
-status: up
-code: 200
-responseTime: 672
-lastUpdated: 2022-09-16T23:36:42.258Z
+status: down
+code: 504
+responseTime: 5191
+lastUpdated: 2022-09-17T11:32:58.324Z
 startTime: Thu May 13 2021 12:15:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
