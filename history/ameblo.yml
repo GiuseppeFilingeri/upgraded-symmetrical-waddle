@@ -1,7 +1,7 @@
 url: ameblo.jp
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2022-11-23T23:30:41.792Z
+status: down
+code: 503
+responseTime: 15693
+lastUpdated: 2022-11-24T05:43:54.254Z
 startTime: Thu May 13 2021 12:15:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
