@@ -1,7 +1,7 @@
 url: inkcityusa.com
-status: up
-code: 200
-responseTime: 14564
-lastUpdated: 2022-12-01T15:44:58.559Z
+status: down
+code: 502
+responseTime: 548
+lastUpdated: 2022-12-01T16:03:20.362Z
 startTime: Thu May 13 2021 12:05:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
