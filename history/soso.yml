@@ -1,7 +1,7 @@
 url: soso.com
-status: up
-code: 200
-responseTime: 1383
-lastUpdated: 2023-03-28T08:59:22.539Z
+status: down
+code: 502
+responseTime: 1033
+lastUpdated: 2023-03-28T10:08:46.403Z
 startTime: Thu May 13 2021 12:15:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
