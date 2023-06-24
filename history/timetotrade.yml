@@ -1,7 +1,7 @@
 url: timetotrade.eu
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2023-06-23T23:24:35.203Z
+status: down
+code: 503
+responseTime: 88
+lastUpdated: 2023-06-24T17:53:48.996Z
 startTime: Thu May 13 2021 12:10:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
