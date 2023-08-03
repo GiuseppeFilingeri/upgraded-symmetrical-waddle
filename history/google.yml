@@ -1,7 +1,7 @@
-url: google.cn
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2023-08-03T21:01:35.749Z
+url: google.com.br
+status: down
+code: 429
+responseTime: 526
+lastUpdated: 2023-08-03T21:01:40.436Z
 startTime: Mon Aug 10 2020 07:54:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
