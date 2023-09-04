@@ -1,7 +1,7 @@
 url: go.com
-status: down
-code: 503
-responseTime: 129
-lastUpdated: 2023-09-03T23:48:06.963Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2023-09-04T00:46:30.147Z
 startTime: 2021-05-13T12:15:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
