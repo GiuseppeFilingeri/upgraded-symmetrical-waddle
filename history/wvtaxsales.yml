@@ -1,7 +1,7 @@
 url: wvtaxsales.com
-status: up
-code: 200
-responseTime: 1556
-lastUpdated: 2023-09-01T23:18:24.021Z
+status: down
+code: 502
+responseTime: 715
+lastUpdated: 2023-09-05T13:00:00.829Z
 startTime: 2021-05-13T12:07:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
