@@ -1,7 +1,7 @@
 url: o2o1.com
-status: up
-code: 200
-responseTime: 5910
-lastUpdated: 2023-11-03T23:21:59.270Z
+status: down
+code: 500
+responseTime: 84
+lastUpdated: 2023-11-04T22:59:31.043Z
 startTime: 2021-05-13T12:08:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
