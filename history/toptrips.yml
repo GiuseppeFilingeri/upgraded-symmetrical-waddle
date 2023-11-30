@@ -1,7 +1,7 @@
 url: toptrips.com
-status: down
-code: 502
-responseTime: 6280
-lastUpdated: 2023-11-30T02:28:00.212Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2023-11-30T02:49:28.268Z
 startTime: 2021-05-13T12:13:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
