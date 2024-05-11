@@ -1,7 +1,7 @@
 url: flickr.com
-status: down
-code: 503
-responseTime: 23303
-lastUpdated: 2024-05-11T13:47:22.231Z
+status: up
+code: 200
+responseTime: 261
+lastUpdated: 2024-05-11T14:03:05.077Z
 startTime: 2021-05-13T12:14:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
