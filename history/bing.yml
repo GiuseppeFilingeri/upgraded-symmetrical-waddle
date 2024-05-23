@@ -1,7 +1,7 @@
 url: bing.com
-status: down
-code: 500
-responseTime: 6137
-lastUpdated: 2024-05-23T07:26:42.917Z
+status: up
+code: 200
+responseTime: 5259
+lastUpdated: 2024-05-23T07:47:16.370Z
 startTime: 2021-05-13T12:14:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
