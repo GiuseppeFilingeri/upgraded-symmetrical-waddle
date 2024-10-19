@@ -1,7 +1,7 @@
 url: watches.de
-status: down
-code: 502
-responseTime: 1268
-lastUpdated: 2024-10-19T22:19:29.315Z
+status: up
+code: 200
+responseTime: 2483
+lastUpdated: 2024-10-19T22:40:31.572Z
 startTime: 2021-05-13T12:13:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
