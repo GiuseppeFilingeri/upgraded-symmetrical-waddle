@@ -1,7 +1,7 @@
 url: detonics.com
-status: up
-code: 200
-responseTime: 1000
-lastUpdated: 2024-12-02T05:50:40.680Z
+status: down
+code: 403
+responseTime: 757
+lastUpdated: 2024-12-02T09:51:59.348Z
 startTime: 2021-05-13T12:10:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
