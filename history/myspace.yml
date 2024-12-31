@@ -1,7 +1,7 @@
 url: myspace.com
-status: down
-code: 500
-responseTime: 202
-lastUpdated: 2024-12-31T13:00:21.020Z
+status: up
+code: 200
+responseTime: 125
+lastUpdated: 2024-12-31T13:22:20.771Z
 startTime: 2021-05-13T12:12:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
