@@ -1,7 +1,7 @@
 url: frater.org
-status: up
-code: 202
-responseTime: 306
-lastUpdated: 2025-01-12T06:08:55.652Z
+status: down
+code: 429
+responseTime: 86
+lastUpdated: 2025-01-12T06:39:37.221Z
 startTime: 2021-05-13T12:12:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
