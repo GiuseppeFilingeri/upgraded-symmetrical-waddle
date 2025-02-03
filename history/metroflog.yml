@@ -1,7 +1,7 @@
 url: metroflog.com
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 451
-lastUpdated: 2025-02-03T07:57:37.813Z
+lastUpdated: 2025-02-03T15:19:36.155Z
 startTime: 2021-05-13T12:13:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
