@@ -1,7 +1,7 @@
 url: msn.com
-status: up
-code: 200
-responseTime: 174
-lastUpdated: 2025-02-02T23:28:10.344Z
+status: down
+code: 429
+responseTime: 193
+lastUpdated: 2025-02-04T09:59:57.965Z
 startTime: 2021-05-13T12:13:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
