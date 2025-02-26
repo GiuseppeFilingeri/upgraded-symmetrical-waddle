@@ -1,7 +1,7 @@
 url: axess.se
-status: up
-code: 200
-responseTime: 1848
-lastUpdated: 2025-02-26T07:54:44.191Z
+status: down
+code: 502
+responseTime: 629
+lastUpdated: 2025-02-26T14:03:25.567Z
 startTime: 2021-05-13T12:13:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
