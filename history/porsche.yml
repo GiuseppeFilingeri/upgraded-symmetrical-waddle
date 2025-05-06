@@ -1,7 +1,7 @@
 url: porsche.com
-status: down
-code: 403
-responseTime: 361
-lastUpdated: 2025-05-06T14:16:35.752Z
+status: up
+code: 200
+responseTime: 446
+lastUpdated: 2025-05-06T14:40:19.708Z
 startTime: 2021-05-13T12:08:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
