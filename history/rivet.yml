@@ -1,7 +1,7 @@
 url: rivet.com
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2025-05-05T23:25:37.428Z
+status: down
+code: 429
+responseTime: 472
+lastUpdated: 2025-05-06T14:16:39.095Z
 startTime: 2021-05-13T12:08:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
