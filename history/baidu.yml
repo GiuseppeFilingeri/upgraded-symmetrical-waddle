@@ -1,7 +1,7 @@
 url: baidu.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-08T01:12:58.786Z
+status: up
+code: 200
+responseTime: 18135
+lastUpdated: 2025-05-08T02:58:02.932Z
 startTime: 2021-05-13T12:14:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
