@@ -1,7 +1,7 @@
 url: benjohnson.com
-status: up
-code: 200
-responseTime: 1354
-lastUpdated: 2025-05-25T15:40:57.671Z
+status: down
+code: 502
+responseTime: 5474
+lastUpdated: 2025-05-25T16:02:51.205Z
 startTime: 2021-05-13T12:13:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
