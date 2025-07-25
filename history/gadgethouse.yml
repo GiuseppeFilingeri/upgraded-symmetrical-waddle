@@ -1,7 +1,7 @@
 url: gadgethouse.nl
-status: up
-code: 200
-responseTime: 4317
-lastUpdated: 2025-07-25T17:23:33.256Z
+status: down
+code: 500
+responseTime: 1435
+lastUpdated: 2025-07-25T19:52:55.768Z
 startTime: 2021-05-13T12:12:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
