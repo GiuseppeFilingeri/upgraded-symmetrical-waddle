@@ -1,7 +1,7 @@
 url: nedis.nl
-status: up
-code: 200
-responseTime: 1913
-lastUpdated: 2025-08-22T23:18:35.689Z
+status: down
+code: 500
+responseTime: 12157
+lastUpdated: 2025-08-23T18:33:26.823Z
 startTime: 2021-05-13T10:37:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
