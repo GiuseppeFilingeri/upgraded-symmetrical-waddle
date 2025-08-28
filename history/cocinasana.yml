@@ -1,7 +1,7 @@
 url: cocinasana.net
-status: up
-code: 200
-responseTime: 211
-lastUpdated: 2025-08-26T23:19:53.199Z
+status: down
+code: 503
+responseTime: 1421
+lastUpdated: 2025-08-28T08:53:56.172Z
 startTime: 2021-05-13T10:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
