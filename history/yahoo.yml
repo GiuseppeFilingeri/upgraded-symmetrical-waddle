@@ -1,7 +1,7 @@
 url: yahoo.co.jp
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2025-09-11T04:50:31.141Z
+status: down
+code: 403
+responseTime: 1503
+lastUpdated: 2025-09-11T14:48:20.907Z
 startTime: 2021-05-13T12:14:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
