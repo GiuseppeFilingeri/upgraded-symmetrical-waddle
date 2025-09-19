@@ -1,7 +1,7 @@
 url: live.com
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2025-09-19T21:46:51.354Z
+status: down
+code: 500
+responseTime: 77
+lastUpdated: 2025-09-19T22:57:49.880Z
 startTime: 2021-05-13T12:13:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
