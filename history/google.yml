@@ -1,7 +1,7 @@
-url: google.co.id
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2025-12-01T23:34:05.260Z
+url: https://www.google.com
+status: down
+code: 429
+responseTime: 547
+lastUpdated: 2025-12-02T09:30:01.221Z
 startTime: 2020-08-10T07:54:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
