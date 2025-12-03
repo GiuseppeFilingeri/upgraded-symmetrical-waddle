@@ -1,7 +1,7 @@
 url: wikipedia.org
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2025-12-02T23:33:06.951Z
+status: down
+code: 403
+responseTime: 1583
+lastUpdated: 2025-12-03T17:34:48.000Z
 startTime: 2020-08-10T07:54:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
