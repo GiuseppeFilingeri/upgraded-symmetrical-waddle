@@ -1,7 +1,7 @@
-url: google.co.uk
-status: down
-code: 502
-responseTime: 323
-lastUpdated: 2025-12-24T21:50:26.601Z
+url: google.cn
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2025-12-24T21:50:28.884Z
 startTime: 2020-08-10T07:54:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
