@@ -1,7 +1,7 @@
 url: citybuild.bg
-status: down
-code: 500
-responseTime: 6233
-lastUpdated: 2026-01-13T09:32:12.384Z
+status: up
+code: 200
+responseTime: 6880
+lastUpdated: 2026-01-13T10:56:45.539Z
 startTime: 2021-05-13T12:06:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
