@@ -1,7 +1,7 @@
 url: mcafee.com
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2026-01-28T16:55:13.894Z
+status: down
+code: 403
+responseTime: 325
+lastUpdated: 2026-01-28T17:57:42.481Z
 startTime: 2021-05-13T12:06:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
