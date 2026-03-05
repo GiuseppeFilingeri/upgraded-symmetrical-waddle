@@ -1,7 +1,7 @@
 url: smartcine.com
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2026-03-04T10:55:34.687Z
+status: down
+code: 415
+responseTime: 112
+lastUpdated: 2026-03-05T11:56:45.494Z
 startTime: 2021-05-13T12:05:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
