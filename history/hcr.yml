@@ -1,7 +1,7 @@
 url: hcr.co.uk
-status: up
-code: 200
-responseTime: 7390
-lastUpdated: 2026-03-09T14:37:18.313Z
+status: down
+code: 401
+responseTime: 730
+lastUpdated: 2026-03-09T16:38:04.992Z
 startTime: 2021-05-13T12:04:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
