@@ -1,7 +1,7 @@
 url: feest-idee.nl
-status: up
-code: 200
-responseTime: 7584
-lastUpdated: 2026-03-16T23:41:55.765Z
+status: down
+code: 500
+responseTime: 15868
+lastUpdated: 2026-03-18T20:36:31.585Z
 startTime: 2021-05-13T12:12:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
