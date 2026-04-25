@@ -1,7 +1,7 @@
 url: iml.es
-status: up
-code: 200
-responseTime: 2509
-lastUpdated: 2026-04-24T23:52:05.892Z
+status: down
+code: 415
+responseTime: 451
+lastUpdated: 2026-04-25T13:57:11.055Z
 startTime: 2021-05-13T12:10:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
