@@ -1,7 +1,7 @@
 url: feest-start.nl
-status: up
-code: 200
-responseTime: 1819
-lastUpdated: 2026-06-19T15:48:08.276Z
+status: down
+code: 415
+responseTime: 302
+lastUpdated: 2026-06-19T23:55:06.414Z
 startTime: 2021-05-13T12:12:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
