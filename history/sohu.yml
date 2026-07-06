@@ -1,7 +1,7 @@
 url: sohu.com
-status: up
-code: 200
-responseTime: 1047
-lastUpdated: 2026-07-06T19:27:01.726Z
+status: down
+code: 502
+responseTime: 867
+lastUpdated: 2026-07-06T23:28:11.715Z
 startTime: 2021-05-13T12:15:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
