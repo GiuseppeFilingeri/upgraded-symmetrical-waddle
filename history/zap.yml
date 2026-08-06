@@ -1,7 +1,7 @@
 url: zap.com.br
-status: up
-code: 200
-responseTime: 575
-lastUpdated: 2026-08-06T10:10:53.530Z
+status: down
+code: 403
+responseTime: 392
+lastUpdated: 2026-08-06T12:32:55.416Z
 startTime: 2021-05-13T12:10:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
