@@ -1,7 +1,7 @@
-url: ebay.com
-status: down
-code: 403
-responseTime: 163
-lastUpdated: 2026-08-15T02:41:23.101Z
+url: ebay.de
+status: up
+code: 200
+responseTime: 1607
+lastUpdated: 2026-08-15T02:44:17.376Z
 startTime: 2021-05-13T12:14:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
